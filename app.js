@@ -2,7 +2,7 @@ const menuTo = document.getElementById("menu-to");
 const navMenu = document.getElementById("nav-menu");
 
 menuTo.addEventListener("click", () => {
-  navMenu.classList.toggle("active"); // CORRECT: Use toggle
+  navMenu.classList.toggle("active"); 
 });
 
 
@@ -43,7 +43,7 @@ window.addEventListener("scroll", function () {
   });
 
 
-// ALLERY
+// GALLERY
   const images = [
     "/WEBprjt/im/G1.png",
     "/WEBprjt/im/G2.png",
