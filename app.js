@@ -44,12 +44,11 @@ window.addEventListener("scroll", function () {
 
 
 // GALLERY
-  const images = [
-    "/im/G1.png",
-    "/im/G2.png",
-    "/im/b17dc13f-cb19-44fa-8d26-22ece2059bc3.png"
-    
-  ];
+ const images = [
+  "im/G1.png",
+  "im/G2.png",
+  "im/b17dc13f-cb19-44fa-8d26-22ece2059bc3.png"
+];
 
   let currentIndex = 1; 
 
