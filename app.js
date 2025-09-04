@@ -45,9 +45,9 @@ window.addEventListener("scroll", function () {
 
 // GALLERY
   const images = [
-    "/WEBprjt/im/G1.png",
-    "/WEBprjt/im/G2.png",
-    "/WEBprjt/im/b17dc13f-cb19-44fa-8d26-22ece2059bc3.png"
+    "/im/G1.png",
+    "/im/G2.png",
+    "/im/b17dc13f-cb19-44fa-8d26-22ece2059bc3.png"
     
   ];
 
